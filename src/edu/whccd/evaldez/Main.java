@@ -1,7 +1,10 @@
 package edu.whccd.evaldez;
 
 import java.util.Scanner;
-
+/*
+    The purpose of this application is to show the uses of if/else statements and switch statements.
+    author: Evander Valdez
+*/
 public class Main {
 
     public static void main(String[] args) {
